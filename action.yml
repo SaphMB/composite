@@ -19,5 +19,4 @@ runs:
     - name: Unit Tests
       shell: bash
       run: |
-        echo "make test"
-        ls
+        make test
